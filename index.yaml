@@ -36,21 +36,21 @@ backend:
     unitsPerHour: 1
    service: MOCK-SERVICE
 tileInfo:
-    - title: MariaDB Overview New
+    - title: 1. MariaDB Overview New
       description: Understand features and architecture of MariaDB.
       duration: 5 min
       content: overview.md
-    - title: MariaDB Operator installation verification
+    - title: 2. MariaDB Operator installation verification
       description:
           Learn how to verify that the MariaDB Operator has been properly installed
           in the namespace.
       duration: 10 min
       content: operator-status.md
-    - title: MariaDB Instance creation
+    - title: 3. MariaDB Instance creation
       description: Learn how to create Instance of MariaDB operator
       duration: 10 min
       content: create-instance.md
-    - title: MariaDB Database Access and table creation inside database.
+    - title: 4. MariaDB Database Access and table creation inside database.
       description: Learn how to access MariaDB Database and create table inside database.
       duration: 10 min
       content: access-database.md

@@ -36,7 +36,7 @@ backend:
     unitsPerHour: 1
    service: MOCK-SERVICE
 tileInfo:
-    - title: MariaDB Overview
+    - title: MariaDB Overview New
       description: Understand features and architecture of MariaDB.
       duration: 5 min
       content: overview.md

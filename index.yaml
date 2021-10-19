@@ -39,7 +39,7 @@ tileInfo:
     - title: 1. MariaDB Overview New
       description: Understand features and architecture of MariaDB.
       duration: 5 min
-      content: overview.md
+      content: overvieww.md
     - title: 2. MariaDB Operator installation verification
       description:
           Learn how to verify that the MariaDB Operator has been properly installed

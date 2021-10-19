@@ -45,7 +45,7 @@ tileInfo:
           Learn how to verify that the MariaDB Operator has been properly installed
           in the namespace.
       duration: 10 min
-      content: operator-status.md
+      content: operator-statuss.md
     - title: 3. MariaDB Instance creation
       description: Learn how to create Instance of MariaDB operator
       duration: 10 min

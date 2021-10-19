@@ -3,7 +3,7 @@ name: MariaDB Operator
 description: Get started with Marid DB and become Zero to Hero in quick time.
 branding:
     logo: _images/logo.png
-    banner: _images/banner.png
+    banner: _images/bannner.png
     textColor: '#FFFFFF'
     header:
         link: https://mariadb.com/
